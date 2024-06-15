@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/IORT-NeRF.iml" filepath="$PROJECT_DIR$/.idea/IORT-NeRF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/reconstruction4IORT.iml" filepath="$PROJECT_DIR$/.idea/reconstruction4IORT.iml" />
     </modules>
   </component>
 </project>
