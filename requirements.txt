@@ -1,9 +1,12 @@
+numpy
 lpips==0.1.3
 imageio
 opencv-python
-scikit-image==0.15.0
+scikit-image
 tqdm
 wget
 configargparse
 tensorboard
 h5py
+matplotlib
+natsort
